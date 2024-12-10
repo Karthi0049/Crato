@@ -1,0 +1,23 @@
+/* General Styles */ body { font-family: Arial, 
+    sans-serif; margin: 0; padding: 0; 
+    background-color: #f0f8ff;
+}
+/* Header Styles */ header { background-color: 
+    #ff6347;
+    color: white; text-align: center; padding: 1em 
+    0;
+}
+/* Main Styles */ main { padding: 1em;
+}
+section { background-color: #98fb98; margin: 1em 0; 
+    padding: 1em; border-radius: 8px;
+}
+section:nth-child(odd) { background-color: #ffd700;
+}
+h2 { color: #2e8b57;
+}
+/* Footer Styles */ footer { background-color: 
+    #4682b4;
+    color: white; text-align: center; padding: 0.5em 
+    0; position: fixed; width: 100%; bottom: 0;
+}
